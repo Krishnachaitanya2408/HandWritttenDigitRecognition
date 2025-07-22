@@ -6,7 +6,7 @@ import gradio as gr
 # -----------------------
 # Load your model once
 # -----------------------
-model = tf.keras.models.load_model('digits_recognition_cnn.h5')
+model = tf.keras.models.load_model('digits_recognition_cnn1.h5')
 
 # -----------------------
 # Preprocess function
